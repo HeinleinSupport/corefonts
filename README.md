@@ -24,4 +24,6 @@ LICENSE for details.
 
 This repo exists because SourceForge's ad-stuffing on the download pages of the
 [long-surviving mirror](http://corefonts.sourceforge.net/) 
-[inconvenienced me](https://push.cx/2015/installing-you-need-a-budget-ynab-on-arch-linux).
+[inconvenienced pushcx](https://push.cx/2015/installing-you-need-a-budget-ynab-on-arch-linux).
+
+The exe files have been extracted for convenience. The full software packages are still distributed according to the license.
